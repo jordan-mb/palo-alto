@@ -1,0 +1,11 @@
+body {
+  width: 60%;
+  min-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  margin: auto;
+}
