@@ -37,3 +37,25 @@ img {
   font-weight: bold;
   margin-top: 50px;
 }
+
+.facts {
+  width: 95%;
+  text-align: left;
+  font-size: 30px;
+}
+
+.facts ul {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  list-style-type: none;
+}
+
+.facts ul li {
+  border-top: 1px solid grey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.facts ul li {
+  border-bottom: 1px solid grey;
+}
