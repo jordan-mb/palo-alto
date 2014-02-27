@@ -44,26 +44,26 @@ img.arrow {
   margin-top: 50px;
 }
 
-.facts {
+.list {
   width: 90%;
   margin: auto;
   text-align: left;
   font-size: 12px;
 }
 
-.facts ul {
+.list ul {
   padding-top: 12px;
   padding-bottom: 12px;
   list-style-type: none;
   padding-left: 0;
 }
 
-.facts ul li {
+.list ul li {
   border-top: 1px solid grey;
   padding-top: 12px;
   padding-bottom: 12px;
 }
 
-.facts ul li.last {
+.list ul li.last {
   border-bottom: 1px solid grey;
 }
