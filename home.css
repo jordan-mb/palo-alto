@@ -1,6 +1,5 @@
 body {
-  width: 60%;
-  min-width: 600px;
+  width: 95%;
   margin: auto;
   text-align: center;
   font-family: Helvetica;
@@ -13,32 +12,58 @@ img {
   margin-bottom: 10px;
 }
 
+img.arrow {
+  margin-top: 15px;
+  margin-bottom: -10;
+  width: 30%;
+}
+
 .title {
   margin-top: 40px;
-  margin-bottom: 15px;
-  font-size: 80px;
+  margin-bottom: 10px;
+  font-size: 60px;
   font-weight: bold;
 }
 
 .subtitle {
-  font-size: 30px;
-  margin-bottom: 50px;
+  font-size: 14px;
+  margin-bottom: 40px;
 }
 
 .note {
-  font-size: 22px;
+  font-size: 14px;
 }
 
 .break {
-  height: 75px;
+  height: 35px;
 }
 
 .location {
-  font-size: 60px;
+  font-size: 26px;
   font-weight: bold;
   margin-top: 50px;
 }
 
-.facts {
+.list {
+  width: 90%;
+  margin: auto;
   text-align: left;
+  font-size: 14px;
+}
+
+.list ul {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.list ul li {
+  border-top: 1px solid grey;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.list ul li.last {
+  border-bottom: 1px solid grey;
 }
