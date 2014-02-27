@@ -12,6 +12,12 @@ img {
   margin-bottom: 10px;
 }
 
+img.arrow {
+  margin-top: 15px;
+  margin-bottom: -10;
+  width: 30%;
+}
+
 .title {
   margin-top: 40px;
   margin-bottom: 10px;
